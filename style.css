@@ -1,0 +1,84 @@
+body{
+    background-image: url("images/bg.jpg");
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.img1{
+    display: inline-block;
+    position: relative;
+    left: 15%;    
+}
+.img2{
+    display: inline-block;
+    position: relative;
+    left: 27%;
+}
+.img3{
+    display: inline-block;
+    position: relative;
+    left: 40%;
+}
+.img4{
+    display: inline-block;
+    position: relative;
+    left: 28%;    
+}
+.img5{
+    display: inline-block;
+    position: relative;
+    left: 41%;
+}
+input[type="button"]{
+    background-color: goldenrod;
+    border-radius: 20px;
+    font-weight: bold;
+}
+button{
+    background-color: goldenrod;
+    font-weight: bold;
+    border-radius: 20px;
+}
+.name{
+    font-size: large;
+    font-family:'Lucida Sans';
+    font-weight: bolder;
+}
+.price{
+    font-size: large;
+    font-family: 'Times New Roman';
+    font-weight: bold;
+}
+img{
+    border-radius: 15%;
+    width: 250px;
+    height: 150px;
+    border: solid;
+}
+h1{
+    font-size: 125px;
+    font-family:fantasy;
+    text-align: center;
+    letter-spacing: 5px;
+    border: 10px solid;
+    border-color: goldenrod;
+    border-style:double;
+    color: goldenrod;
+}
+.about{
+    display: inline-block;
+    inline-size: 500px;
+    text-align: center;
+    position: relative;
+    left: 20%;
+    color: beige;
+}
+.contact{
+    display: inline-block;
+    text-align: center;
+    position:relative; 
+    left: 30%;
+    color: beige;
+}
+p{
+    color:aliceblue;
+}
